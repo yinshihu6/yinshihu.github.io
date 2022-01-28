@@ -5,7 +5,7 @@ Tel: 2674414860
 
 Email: yinshihu@seas.upenn.edu
 
-### EDUCATION
+## EDUCATION
 
 University of Pennsylvania                                            Sept. 2021 – Present
 
@@ -27,9 +27,9 @@ B.S. in Opto-Electronics Information Science and Engineering
 
 GPA: 3.6/4.0 
 
-### RESEARCH
+## RESEARCH
 
-## Subsurface Imaging Technology Based on Microscopes                    Sept. 2020 – Jun. 2021
+### Subsurface Imaging Technology Based on Microscopes                    Sept. 2020 – Jun. 2021
 
 Advisor: Dr. Xidong Ding
 
@@ -41,7 +41,7 @@ Advisor: Dr. Xidong Ding
 
 •	Attended 2020 Surface Analysis Technology Seminar, and the third author of the poster Finite Element Analysis Based on Electrostatic Force Microscopy Subsurface Imaging Technology which won the outstanding poster award of this conference.
 
-## Hardware Design Based on the Remote Alarm System                     Nov. 2018 – Jun. 2020
+### Hardware Design Based on the Remote Alarm System                     Nov. 2018 – Jun. 2020
 
 Outstanding Undergraduate Thesis Project of School of Physics; Chinese National Patent; Advisor: Dr. Guocong Lin and Dr. Xidong Ding.
 
@@ -53,7 +53,7 @@ Outstanding Undergraduate Thesis Project of School of Physics; Chinese National 
 
 •	Built a prototype of this system which matched the productized standard and has sold several products online.
 
-## Intelligent Hardware and Unmanned Air Vehicle (UAV) Technology          Feb.2019 – Mar. 2019
+### Intelligent Hardware and Unmanned Air Vehicle (UAV) Technology          Feb.2019 – Mar. 2019
 
 UAV Winter Camp at Soochow University; Advisor: Dr. Zhenghao Lu
 
@@ -63,7 +63,7 @@ UAV Winter Camp at Soochow University; Advisor: Dr. Zhenghao Lu
 
 •	Welded the whole circuit, assembled the UAV, and took the trial flight. 
 
-## Control Circuit Welding for Control Devices of Laser Pattern               Sept. 2018 – Feb. 2019
+### Control Circuit Welding for Control Devices of Laser Pattern               Sept. 2018 – Feb. 2019
 
 Electronic Technology Lab of SYSU 
 
@@ -71,7 +71,7 @@ Electronic Technology Lab of SYSU
 
 •	Welded various circuits and assembled them; 
 
-### INTERNSHIP 
+## INTERNSHIP 
 
 Jiangmen Underground Neutrino Observatory, Zhongshan Workstation      July 2019 – Aug. 2019
 
