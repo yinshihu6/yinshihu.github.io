@@ -7,7 +7,7 @@ Email: yinshihu@seas.upenn.edu
 
 ## EDUCATION
 
-  University of Pennsylvania                                            Sept. 2021 – Present
+University of Pennsylvania                                            Sept. 2021 – Present
 
 M.S. in Electrical & Systems Engineering
 
