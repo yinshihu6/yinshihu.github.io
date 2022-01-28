@@ -7,21 +7,21 @@ Email: yinshihu@seas.upenn.edu
 
 ## EDUCATION
 
-University of Pennsylvania                                            Sept. 2021 – Present
+University of Pennsylvania                                              Sept. 2021 – Present
 
 M.S. in Electrical & Systems Engineering
 
 GPA: 3.9/4.0
 
 
-Sun Yat-sen University, SYSU                                          Sept. 2020 – Jun. 2021
+Sun Yat-sen University, SYSU                                            Sept. 2020 – Jun. 2021
 
 M.S. in Power Electronics and Power Transmission 
 
 GPA: 3.76/4.0
 
 
-Sun Yat-sen University, SYSU                                          Sept. 2016 – Jun. 2020
+Sun Yat-sen University, SYSU                                            Sept. 2016 – Jun. 2020
 
 B.S. in Opto-Electronics Information Science and Engineering 
 
