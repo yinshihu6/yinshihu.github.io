@@ -7,21 +7,21 @@ Email: yinshihu@seas.upenn.edu
 
 ## EDUCATION
 
-University of Pennsylvania                                               Sept. 2021 – Present
+University of Pennsylvania &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp;Sept. 2021 – Present
 
 M.S. in Electrical & Systems Engineering
 
 GPA: 3.9/4.0
 
 
-Sun Yat-sen University, SYSU                                            Sept. 2020 – Jun. 2021
+Sun Yat-sen University, SYSU &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;Sept. 2020 – Jun. 2021
 
 M.S. in Power Electronics and Power Transmission 
 
 GPA: 3.76/4.0
 
 
-Sun Yat-sen University, SYSU                                            Sept. 2016 – Jun. 2020
+Sun Yat-sen University, SYSU &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;Sept. 2016 – Jun. 2020
 
 B.S. in Opto-Electronics Information Science and Engineering 
 
@@ -29,7 +29,7 @@ GPA: 3.6/4.0
 
 ## RESEARCH
 
-### Subsurface Imaging Technology Based on Microscopes                         Sept. 2020 – Jun. 2021
+### Subsurface Imaging Technology Based on Microscopes &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Sept. 2020 – Jun. 2021
 
 •	Formulated the pointer, sample, and buried particle system model using the finite element tool in COMSOL. Participated in the simulation of such as Equipotential Lines of the Sample and 2D Scanning Electrostatic Force Distribution Map.
 
@@ -39,7 +39,7 @@ GPA: 3.6/4.0
 
 •	Attended 2020 Surface Analysis Technology Seminar, and the third author of the poster Finite Element Analysis Based on Electrostatic Force Microscopy Subsurface Imaging Technology which won the outstanding poster award of this conference.
 
-### Hardware Design Based on the Remote Alarm System                            Nov. 2018 – Jun. 2020
+### Hardware Design Based on the Remote Alarm System &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Nov. 2018 – Jun. 2020
 
 *Outstanding Undergraduate Thesis Project of School of Physics; Chinese National Patent*
 
@@ -51,7 +51,7 @@ GPA: 3.6/4.0
 
 •	Built a prototype of this system which matched the productized standard and has sold several products online.
 
-### Intelligent Hardware and Unmanned Air Vehicle (UAV) Technology             Feb.2019 – Mar. 2019
+### Intelligent Hardware and Unmanned Air Vehicle (UAV) Technology&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Feb.2019 – Mar. 2019
 
 *UAV Winter Camp at Soochow University*
 
@@ -61,7 +61,7 @@ GPA: 3.6/4.0
 
 •	Welded the whole circuit, assembled the UAV, and took the trial flight. 
 
-### Control Circuit Welding for Control Devices of Laser Pattern                Sept. 2018 – Feb. 2019
+### Control Circuit Welding for Control Devices of Laser Pattern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sept. 2018 – Feb. 2019
 
 *Electronic Technology Lab of SYSU*
 
@@ -71,7 +71,7 @@ GPA: 3.6/4.0
 
 ## INTERNSHIP 
 
-### Jiangmen Underground Neutrino Observatory, Zhongshan Workstation            July 2019 – Aug. 2019
+### Jiangmen Underground Neutrino Observatory, Zhongshan Workstation&emsp;&emsp;&emsp;&emsp;&emsp;July 2019 – Aug. 2019
 
 *Institute of High Energy Physics, Chinese Academy of Sciences*
 
