@@ -65,7 +65,7 @@ GPA: 3.6/4.0
 
 ### Control Circuit Welding for Control Devices of Laser Pattern                Sept. 2018 – Feb. 2019
 
-*Electronic Technology Lab of SYSU *
+*Electronic Technology Lab of SYSU*
 
 •	Analyzed the circuits and suggested halving the LM324N amount while maintaining the same circuit performance;
 
