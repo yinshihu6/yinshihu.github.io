@@ -33,7 +33,7 @@ GPA: 3.6/4.0
 
 *Advisor: Dr. Xidong Ding*
 
-•	Formulated the pointer, sample, and buried particle system model using the finite element tool in COMSOL. Participated in the simulation of such Equipotential Lines of the Sample and 2D Scanning Electrostatic Force Distribution Map.
+•	Formulated the pointer, sample, and buried particle system model using the finite element tool in COMSOL. Participated in the simulation of such as Equipotential Lines of the Sample and 2D Scanning Electrostatic Force Distribution Map.
 
 •	Conducted imaging scans of an IC chip in multiple microscope types such as AFM, KPFM, and SCM made by NSK Ltd. Japan and Bruker. The results show that the burial depth and dielectric constant of particles with different physical properties buried in the semiconductor sample can be obtained through multiple scanning and analysis of electrostatic force microscopy, which provides a new method for the non-destructive testing of semiconductor materials and devices.
 
