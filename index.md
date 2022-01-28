@@ -7,7 +7,7 @@ Email: yinshihu@seas.upenn.edu
 
 ## EDUCATION
 
-University of Pennsylvania                                              Sept. 2021 – Present
+University of Pennsylvania                                               Sept. 2021 – Present
 
 M.S. in Electrical & Systems Engineering
 
@@ -31,8 +31,6 @@ GPA: 3.6/4.0
 
 ### Subsurface Imaging Technology Based on Microscopes                         Sept. 2020 – Jun. 2021
 
-*Advisor: Dr. Xidong Ding*
-
 •	Formulated the pointer, sample, and buried particle system model using the finite element tool in COMSOL. Participated in the simulation of such as Equipotential Lines of the Sample and 2D Scanning Electrostatic Force Distribution Map.
 
 •	Conducted imaging scans of an IC chip in multiple microscope types such as AFM, KPFM, and SCM made by NSK Ltd. Japan and Bruker. The results show that the burial depth and dielectric constant of particles with different physical properties buried in the semiconductor sample can be obtained through multiple scanning and analysis of electrostatic force microscopy, which provides a new method for the non-destructive testing of semiconductor materials and devices.
@@ -41,9 +39,9 @@ GPA: 3.6/4.0
 
 •	Attended 2020 Surface Analysis Technology Seminar, and the third author of the poster Finite Element Analysis Based on Electrostatic Force Microscopy Subsurface Imaging Technology which won the outstanding poster award of this conference.
 
-### Hardware Design Based on the Remote Alarm System                           Nov. 2018 – Jun. 2020
+### Hardware Design Based on the Remote Alarm System                            Nov. 2018 – Jun. 2020
 
-*Outstanding Undergraduate Thesis Project of School of Physics; Chinese National Patent; Advisor: Dr. Guocong Lin and Dr. Xidong Ding.*
+*Outstanding Undergraduate Thesis Project of School of Physics; Chinese National Patent*
 
 •	Designed the schematic and the PCB of the hardware circuit. 
 
@@ -55,7 +53,7 @@ GPA: 3.6/4.0
 
 ### Intelligent Hardware and Unmanned Air Vehicle (UAV) Technology             Feb.2019 – Mar. 2019
 
-*UAV Winter Camp at Soochow University; Advisor: Dr. Zhenghao Lu*
+*UAV Winter Camp at Soochow University*
 
 •	Completed the PCB and the CPU-based circuit designs for the motor drive system of the UAV;
 
@@ -75,7 +73,7 @@ GPA: 3.6/4.0
 
 ### Jiangmen Underground Neutrino Observatory, Zhongshan Workstation            July 2019 – Aug. 2019
 
-*Hosted by Institute of High Energy Physics, Chinese Academy of Sciences; Advisor: Dr. Zhonghua Qin*
+*Institute of High Energy Physics, Chinese Academy of Sciences*
 
 •	Took electrical performance tests over photomultipler tubes (PMT) after voltage dividing circuit being welded; 
 
