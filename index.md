@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Yinshi Hu’ Resume
+I am currently a master student in Electrical & Systems Engineering majoring in EE at the University of Pennsylvania. 
+Tel: 2674414860 
+Email: yinshihu@seas.upenn.edu
 
 You can use the [editor on GitHub](https://github.com/yinshihu6/yinshihu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
