@@ -7,8 +7,7 @@ Email: yinshihu@seas.upenn.edu
 
 ## EDUCATION
 
-University of Pennsylvania                                              
-Sept. 2021 – Present
+University of Pennsylvania                                              Sept. 2021 – Present
 
 M.S. in Electrical & Systems Engineering
 
@@ -32,7 +31,7 @@ GPA: 3.6/4.0
 
 ### Subsurface Imaging Technology Based on Microscopes                         Sept. 2020 – Jun. 2021
 
-Advisor: Dr. Xidong Ding
+*Advisor: Dr. Xidong Ding*
 
 •	Formulated the pointer, sample, and buried particle system model using the finite element tool in COMSOL. Participated in the simulation of such Equipotential Lines of the Sample and 2D Scanning Electrostatic Force Distribution Map.
 
@@ -44,7 +43,7 @@ Advisor: Dr. Xidong Ding
 
 ### Hardware Design Based on the Remote Alarm System                           Nov. 2018 – Jun. 2020
 
-Outstanding Undergraduate Thesis Project of School of Physics; Chinese National Patent; Advisor: Dr. Guocong Lin and Dr. Xidong Ding.
+*Outstanding Undergraduate Thesis Project of School of Physics; Chinese National Patent; Advisor: Dr. Guocong Lin and Dr. Xidong Ding.*
 
 •	Designed the schematic and the PCB of the hardware circuit. 
 
@@ -56,7 +55,7 @@ Outstanding Undergraduate Thesis Project of School of Physics; Chinese National 
 
 ### Intelligent Hardware and Unmanned Air Vehicle (UAV) Technology             Feb.2019 – Mar. 2019
 
-UAV Winter Camp at Soochow University; Advisor: Dr. Zhenghao Lu
+*UAV Winter Camp at Soochow University; Advisor: Dr. Zhenghao Lu*
 
 •	Completed the PCB and the CPU-based circuit designs for the motor drive system of the UAV;
 
@@ -66,7 +65,7 @@ UAV Winter Camp at Soochow University; Advisor: Dr. Zhenghao Lu
 
 ### Control Circuit Welding for Control Devices of Laser Pattern                Sept. 2018 – Feb. 2019
 
-Electronic Technology Lab of SYSU 
+*Electronic Technology Lab of SYSU *
 
 •	Analyzed the circuits and suggested halving the LM324N amount while maintaining the same circuit performance;
 
@@ -76,7 +75,7 @@ Electronic Technology Lab of SYSU
 
 ### Jiangmen Underground Neutrino Observatory, Zhongshan Workstation            July 2019 – Aug. 2019
 
-Hosted by Institute of High Energy Physics, Chinese Academy of Sciences; Advisor: Dr. Zhonghua Qin
+*Hosted by Institute of High Energy Physics, Chinese Academy of Sciences; Advisor: Dr. Zhonghua Qin*
 
 •	Took electrical performance tests over photomultipler tubes (PMT) after voltage dividing circuit being welded; 
 
