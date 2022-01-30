@@ -75,7 +75,7 @@ Nov. 2021 – Dec 2021
 
 •	Designed the 16 6T SRAM cell array (including Pecharge, SIPO, and Sense Amplifier circuits) and the LUT circuits (using transmission gate logic), minimizing their delay.
 
-•	Designed the Layout of SRAM array, LUT, DFF and combine them into a CLB with the minimized area.
+•	Designed the Layout of SRAM array, LUT, DFF and combined them into a CLB with the minimized area.
 
 ### Control Circuit Welding for Control Devices of Laser Pattern              
 Sept. 2018 – Feb. 2019
