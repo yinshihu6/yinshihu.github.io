@@ -42,7 +42,7 @@ Sept. 2020 – Jun. 2021
 
 •	Responsible for the data extraction and analysis in the COMSOL simulation process.
 
-•	Attended 2020 Surface Analysis Technology Seminar, and the third author of the poster Finite Element Analysis Based on Electrostatic Force Microscopy Subsurface Imaging Technology which won the outstanding poster award of this conference.
+•	Attended 2020 Surface Analysis Technology Seminar, and the third author of the poster *Finite Element Analysis Based on Electrostatic Force Microscopy Subsurface Imaging Technology* which won the outstanding poster award of this conference.
 
 ### Hardware Design Based on the Remote Alarm System &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
 Nov. 2018 – Jun. 2020
