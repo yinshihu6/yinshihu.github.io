@@ -1,8 +1,6 @@
-## Yinshi Hu’ Resume
-I am currently a master student in Electrical & Systems Engineering majoring in EE at the University of Pennsylvania. 
+## Yinshi Hu’ Resume 
 
 Tel: 2674414860 
-
 Email: yinshihu@seas.upenn.edu
 
 ## EDUCATION
@@ -26,6 +24,12 @@ Sun Yat-sen University, SYSU &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&em
 B.S. in Opto-Electronics Information Science and Engineering 
 
 GPA: 3.6/4.0 
+
+## RESEARCH INTEREST
+
+•	Integrated Circuits and Electronic Device Design
+
+•	Semiconductor Fabrication Process
 
 ## RESEARCH
 
@@ -64,10 +68,17 @@ Feb.2019 – Mar. 2019
 
 •	Welded the whole circuit, assembled the UAV, and took the trial flight. 
 
-### Control Circuit Welding for Control Devices of Laser Pattern &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-Sept. 2018 – Feb. 2019
+## COURSEWORK
 
-*Electronic Technology Lab of SYSU*
+### CLB Design in the 0.6um CMOS Technology using Cadence				   
+Nov. 2021 – Dec 2021
+
+•	Designed the 16 6T SRAM cell array (including Pecharge, SIPO, and Sense Amplifier circuits) and the LUT circuits (using transmission gate logic), minimizing their delay.
+
+•	Designed the Layout of SRAM array, LUT, DFF and combine them into a CLB with the minimized area.
+
+### Control Circuit Welding for Control Devices of Laser Pattern              
+Sept. 2018 – Feb. 2019
 
 •	Analyzed the circuits and suggested halving the LM324N amount while maintaining the same circuit performance;
 
